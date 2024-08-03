@@ -1,0 +1,6 @@
+to run this game go to terminal and type:
+python {name of the file }  {how many red marbles do you want} {how many blue marbles do you want} (which version do you want to play[standard/misere]} {which player wanna go first (if you want that computer should be first then skip this part)} {Search depth for AI (optional)}
+for example 
+python main.py 5 6 misere human 3
+or 
+python main.py 5 6 standard 
